@@ -5,6 +5,8 @@ This repository contains a summary and solutions to exercises for the book "All 
 ## Table of Contents
 
 - [Chapter 1 - Probability](./Chapter1_Probability/)
+- [Chapter 2 - Random Variable](./Chapter2_RandomVariable/)
+- [Chapter 3 - Expectation](./Chapter3_Expectation/)
 
 
 ## Summary
